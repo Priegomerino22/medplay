@@ -1,4 +1,4 @@
-<?php
+<?php   vvvvvvvvv
 session_start();
 include '../db.php'; // Conexión a la base de datos
 
